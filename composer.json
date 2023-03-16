@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzle/http": "^3.9",
+        "cboden/ratchet": "^0.4.4"
+    }
+}
